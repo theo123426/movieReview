@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
+    "username": "theo",
+    "password": "katasandi11##",
     "database": "movieReview",
     "host": "127.0.0.1",
-    "dialect": "mysql2"
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
